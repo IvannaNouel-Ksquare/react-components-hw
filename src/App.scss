@@ -1,0 +1,132 @@
+.navbar {
+    background-color: rgb(50, 50, 51);
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;;
+    font-size: 13px;
+
+    .nav-link {
+        color: #d7d7d7;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler-icon {
+    filter: brightness(0) invert(1);
+}
+
+#learn{
+    color: #0967cc;
+    text-decoration: none;
+    padding-left: 6px;
+}
+
+#learn:hover {
+    text-decoration: underline;
+}
+
+#bi {
+    padding: 5px;
+    font-size: x-small;
+}
+*{
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+
+#container-1{
+    padding: 20px;
+}
+
+.container-2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(245,245,247);
+    padding-bottom: 100px;
+}
+
+.text-1{
+    color: #6e6e73;
+    font-size: 48px;
+    font-weight: 500;
+    width: 50%;
+    margin-top: 100px;
+    padding-left: 280px;
+}
+.store{
+    color:black;
+}
+
+.text-2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: flex-end;
+}
+.pp {
+    margin-left: 15px;
+    width: 30%;  
+}
+.icon{
+    margin-top: 16px;
+    width: 50%; 
+}
+
+.content-right{
+    display: flex;
+    margin-top: 110px;
+    margin-left: 200px;
+
+}
+
+.info-right{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.bold-text-1{
+
+    font-weight: 600;
+}
+
+.bold-text-2{
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.ask{
+    color: #0967cc;
+    text-decoration: none;
+}
+.ask:hover {
+    text-decoration: underline;
+}
+
+.container-3{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: rgb(245,245,247);
+    justify-content: flex-end;
+    height: 500px;
+
+}
+
+.stroller{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.undertext{
+    color: #1d1d1f;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px;
+    
+}
