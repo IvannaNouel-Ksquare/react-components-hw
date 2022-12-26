@@ -1,10 +1,10 @@
 Recreating apple.com/store
 
 Apple:
-![Uploading apple.png…]()
+![Alt text](/Users/ivannanouel/Documents/Personal/landingpage/apple.png)
 
 
 mine:
-![Uploading mine.png…]()
+![Alt text](/Users/ivannanouel/Documents/Personal/landingpage/mine.png)
 
 
