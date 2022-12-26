@@ -1,9 +1,10 @@
 Recreating apple.com/store
 
 Apple:
+![Uploading apple.png…]()
 
-/Users/ivannanouel/Desktop/apple.png
 
 mine:
+![Uploading mine.png…]()
 
-/Users/ivannanouel/Desktop/mine.png
+
